@@ -1,4 +1,4 @@
-# Code-wars-js-solution
+# Code-wars-js-solution <img  src="https://www.codewars.com/users/mameri%20hamza/badges/micro">
 <img align='right' src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="230">
 
 hey every one 

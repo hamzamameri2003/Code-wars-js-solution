@@ -1,0 +1,10 @@
+function alphabetPosition(text) {
+  var result = "";
+  for (var i = 0; i < text.length; i++) {
+    var x = text.toUpperCase().charCodeAt(i)
+    if (x > 64 && x < 91){
+      result += (x - 64) + " "};
+  }
+
+  return result.slice(0, result.length - 1);
+}
